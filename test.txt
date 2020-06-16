@@ -1,2 +1,2 @@
-Welcom to Git learning
+Welcom to Git lreaning
 This is now updated
